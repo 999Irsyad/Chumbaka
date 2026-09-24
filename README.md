@@ -3,8 +3,8 @@
 
 ## 🏗️ What I'm Building
 
-<Project name and link to the real project>
+For now ,Im trying to build a illegal football game 
 
 ## 🛠️ Tools I Use
 
-<Languages, frameworks, or tools you actually use>
+I use Scratch lol
